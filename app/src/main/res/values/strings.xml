@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="title_home">Student</string>
+    <string name="title_dashboard">Charts</string>
+    <string name="title_movies">Books</string>
+</resources>
